@@ -15,5 +15,5 @@
 git clone https://github.com/robinbnc/so_long.git
 cd so_long
 make bonus
-./so_long_bonus maps/first_map.ber
+./so_long maps/map_bonus.ber
 ```
